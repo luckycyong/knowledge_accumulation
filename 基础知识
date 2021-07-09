@@ -134,5 +134,6 @@ Web：
 		缺点：
 			存储过程和函数的编写比单句SQL语句复杂。
 			在编写存储过程和函数时，需要创建这些数据库对象的权限。
-	
+	4、事务隔离级别
+		Read uncommitted、Read committed、Repeatable read、Serializable
 	
